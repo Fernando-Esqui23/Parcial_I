@@ -1,3 +1,9 @@
+//Carin Ester Sanchez Morales USSS107522
+//Cindy Rosmery Benitez Ramirez USSS009122
+//Hendri Emilio Ventura Bernal USSS014522
+//Fernando Antonio Esquivel Hernandez USSS021722
+
+
 package com.ugb.parcial_i;
 
 import androidx.appcompat.app.AppCompatActivity;
